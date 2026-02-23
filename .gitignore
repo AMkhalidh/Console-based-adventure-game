@@ -43,3 +43,9 @@
 # macOS
 .DS_Store
 *.dSYM
+
+# VS Code
+.vscode/
+
+# Compiled binary
+AdventureGame
